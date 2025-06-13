@@ -1,4 +1,4 @@
-# Estimating the Intrinisic Dimension of Human Knowledge
+# Estimating the Intrinsic Dimension of Human Knowledge
 
 ### Background and Motivation
 
