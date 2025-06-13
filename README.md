@@ -14,7 +14,7 @@ Cohere published a dataset of 35 million+ vector embeddings of paragraphs in Wik
 
 ### Implications
 
-The implications of this discovery for AI efficiency and interpretability – and much more – are profound. Claude Sonnet 4 tells me: “The implications could reshape not just AI technology, but our understanding of cognition, learning, and knowledge representation across all domains.” (I used Claude Sonnet 4 as my assistant throughout this research in the past few weeks. You may see our rich throeretical and practical dialog at https://claude.ai/share/d9f163d7-381c-47e0-af15-de0e05292633. I also used Claude Sonnet 4 to speed my Python coding.)
+The implications of this discovery for AI efficiency and interpretability – and much more – are profound. Claude Sonnet 4 tells me: “The implications could reshape not just AI technology, but our understanding of cognition, learning, and knowledge representation across all domains.” (I used Claude Sonnet 4 as my assistant throughout this research in the past few weeks. You may see our rich theoretical and practical dialog at https://claude.ai/share/d9f163d7-381c-47e0-af15-de0e05292633. I also used Claude Sonnet 4 to speed my Python coding.)
 
 ### Acknowledgement
 
