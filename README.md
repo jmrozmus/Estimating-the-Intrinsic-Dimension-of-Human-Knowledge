@@ -32,7 +32,7 @@ Assuming that this pattern of intrinsic dimension is found in many other relevan
 
 ### Computational Requirements
 
-I ran these experiments on a robust MSI Summit A16 AI+ A3HM Windows 11 laptop with 32 GB of RAM and a 1 TB SSD. I was able to use 20-30 K random samples from which the method of correlation dimension calcultaes a distance matrix. If you use too many samples, you can easily cause your Python engine to crash. 
+I ran these experiments on a robust MSI Summit A16 AI+ A3HM Windows 11 laptop with 32 GB of RAM and a 1 TB SSD. I was able to use 20-30 K random samples from which the method of correlation dimension calculates a distance matrix. If you use too many samples, you can easily cause your Python engine to crash. 
 
 ### Acknowledgement
 
